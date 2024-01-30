@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToTextPOC</string>
+    <string name="speech_to_text">Speech to text</string>
+</resources>
